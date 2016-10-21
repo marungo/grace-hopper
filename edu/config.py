@@ -1,12 +1,11 @@
 import json
 
 all_data = {
-    "GWC": {
-        "persona_name": "Girls Who Code",
-        "label": "high school club helps to pique girls' interests in tech early on",
-        "persona_description": """Girls Who Code is a nonprofit org that is built upon the notion of
-        closing the gender gap and for using tech for social good. Participants are young and inexperienced,
-        but take """,
+    "QWC": {
+        "persona_name": "HaQueen",
+        "label": """HaQueens is a university-level org that is focused on providing a place and network
+        for non-cis male undergrad students to collaborate on projects together, attend hackathons, 
+        go to programming competitions, and even ideate """,
 
         "persona_belonging" : "Outsider",
         "persona_image" : "http://tiptoes.ca/wp-content/uploads/2015/07/15065219318_9d22033cf4_k.jpg",
